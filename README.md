@@ -24,6 +24,6 @@ SQL
   
 **Email verification inclued
 
-Project videos can be accessed in this link:
+Project videos can be accessed with this link:
 https://drive.google.com/drive/folders/1qYEQmYhTUxrZ-WRt25adCUkDZ3DCcYs5?usp=sharing 
 
