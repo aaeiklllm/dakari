@@ -1,0 +1,82 @@
+/* SellerAddScreen.css */
+
+.seller-add-screen {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .home-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #907c75;
+    color: white;
+  }
+  
+  .home-logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .home-button,
+  .home-logout-button {
+    background-color: #6b5e58;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .home-button:hover,
+  .home-logout-button:hover {
+    background-color: #5b504b;
+  }
+  
+  h1 {
+    margin: 20px 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submit-button,
+  .back-button {
+    background-color: #907c75;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .submit-button:hover,
+  .back-button:hover {
+    background-color: #6b5e58;
+  }
+  
