@@ -22,4 +22,8 @@ SQL
    4. products
    5. receipt
   
-Email verification inclued
+**Email verification inclued
+
+Project videos can be accessed in this link:
+https://drive.google.com/drive/folders/1qYEQmYhTUxrZ-WRt25adCUkDZ3DCcYs5?usp=sharing 
+
